@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ds-sinhvien>
+    <sinhvien>
+      <masv>22174600024</masv>
+      <tensv>Nguyen Manh Cuong</tensv>
+      <namsinh>2005</namsinh>
+      <lop>DHKL17A1HN</lop>
+      <gioitinh>Nam</gioitinh>
+    </sinhvien>
+  
+    <sinhvien>
+        <masv>22174600098</masv>
+        <tensv>Tran Thao Vy</tensv>
+        <namsinh>2005</namsinh>
+        <lop>DHKL17A1HN</lop>
+        <gioitinh>Nu</gioitinh>
+    </sinhvien>
+  
+    
+  
+</ds-sinhvien>

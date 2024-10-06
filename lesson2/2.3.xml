@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<company>
+    <name>GeeksForGeeks Company</name>
+    <staff id="1">
+        <name>Manh Cuong</name>
+        <salary>8.5 LPA</salary>
+    </staff>
+    <staff id="2">
+        <name>Thao Vy</name>
+        <salary>8.0 LPA</salary>
+    </staff>
+    <staff id="3">
+        <name>Khanh Linh</name>
+        <salary>3.2 LPA</salary>
+    </staff>
+</company>
